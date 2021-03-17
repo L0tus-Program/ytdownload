@@ -8,6 +8,6 @@ ys = yt.streams.get_highest_resolution() #Seleciona a melhor qualidade de vídeo
 ys.download(path) # Path é a pasta para salver o vídeo , passada como parâmetro para a função download.
 pyautogui.alert("Download completo ! \nVídeo salvo em %s" %(path))
 
-# https://www.youtube.com/watch?v=ex86DhcJ_UM
+
 
 
